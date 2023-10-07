@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][website]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">][instagram]
-[<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white">][playstore]
-[<img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">][itch.io]
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">][medium]
 
 ## Who Am I?
