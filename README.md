@@ -59,12 +59,12 @@ A website that overlays historical cryptocurrency prices with Elon Musk's tweets
 [tasks.ai](https://play.google.com/store/apps/details?id=com.appnamenull.mlscheduler)
 This a tasks and reminders app that uses a user's phone usage data to forecast the best time to remind them.
 
-Find more on my [website](https://nikhil-nair.web.app/).
+Find more on my [website](https://saiyam-shah.github.io/).
 <br/>
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilnair31&theme=graywhite&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiyam-shah&theme=graywhite&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascriptL&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikhilnair31&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
@@ -100,11 +100,8 @@ Find more on my [website](https://nikhil-nair.web.app/).
 
 <br />
 
-[website]: https://nikhil-nair.web.app/
-[twitter]: https://twitter.com/_silhouettte_
-[instagram]: https://www.instagram.com/_nikhilnair_/
-[gmail]: mailto:niknair31898@gmail.com
-[linkedin]: https://www.linkedin.com/in/nikhilnair31/
-[playstore]: https://play.google.com/store/apps/dev?id=5678454527601486137
-[itch.io]: https://silhouttte.itch.io/
-[medium]: https://medium.com/@niknair31898
+[website]: https://saiyam-shah.github.io
+[instagram]: https://www.instagram.com/saiyam_3/
+[gmail]: mailto:saiyamshah353@gmail.com
+[linkedin]: https://www.linkedin.com/in/saiyam-shah/
+[medium]: https://medium.com/@saiyamshah353
