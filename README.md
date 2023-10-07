@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!-- ![Hi](hi2.png) -->
 # Hi, I'm Saiyam 👋
 
