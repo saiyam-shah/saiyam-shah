@@ -53,15 +53,10 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/2" alt="Recent Article 2">
 ---
 
-<img align= 'right' src='https://spotify-github-profile.vercel.app/api/viewuid=codf2t475z21s2nja99v4ouuc&cover_image=true&theme=default'/> 
-  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=codf2t475z21s2nja99v4ouuc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=codf2t475z21s2nja99v4ouuc&redirect=true)
+
   (https://spotify-github-profile.vercel.app/api/view?uid=codf2t475z21s2nja99v4ouuc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)'/>
-
-
-(https://github.com/kittinan/spotify-github-profile)
-
-
-
 
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
