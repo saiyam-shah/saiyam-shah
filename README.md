@@ -46,6 +46,19 @@ Here are some ideas to get you started:
 <br>
 </p>
 
+### Here are my most current ***Medium*** posts:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wyattowalsh/2" alt="Recent Article 2">
+---
+<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
+
+
+
+
+
+
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">]
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">]
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">]
