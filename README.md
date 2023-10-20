@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <br>
 <p>Connect with me on
 <br>	
-[<img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">][https://saiyam-shah.github.io/]
+[<a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=for-the-badge&logo=appveyor&logoColor=white&color=teal">]
   <a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
