@@ -64,7 +64,5 @@ PostgreSQL - was
 Excel (XLSTAT, Analysis Toolpak, Solver), 
 Selenium - Arduino
 
-
-
-Projects
+![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=saiyamshah353&limit=6&theme=nord)
 
