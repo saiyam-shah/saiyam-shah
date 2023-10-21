@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### Here are my most current ***Medium*** posts:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/1&theme=nord" alt="Recent Article 1">
 ---
 
 <img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
