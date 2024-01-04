@@ -15,25 +15,6 @@ Here are some ideas to get you started:
 
 <!-- ![Hi](hi2.png) -->
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
 
 </p>
 
@@ -66,15 +47,39 @@ Here are some ideas to get you started:
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@saiyamshah353/1" alt="Recent Article 1"> -->
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
 
 ---
 
 
 | <h3 align='center' style='text-decoration: underline'> <u> Technologies </u> </h3> <br> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <br> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <br> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/> <br> <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/><img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="Selenium" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Selenium&logoColor=white"/> <br> <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/><br><img alt="GCP" src="https://img.shields.io/badge/GCP%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white"/><img alt="Looker" src="https://img.shields.io/badge/Looker%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white"/> <br> <img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /><a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"></a><a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff"></a><img alt="Excel" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> <br> <img alt="Sublime Text" src="https://img.shields.io/badge/sublimetext%20-%23FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=white"/><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23273347?style=for-the-badge&logo=AWS&logoColor=white"/> <br><br>
 |---|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
