@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ---
 <a target="_blank" align="left">
-  <img align="right" top="100" height="400" width="600" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="100" height="400" width="450" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
